@@ -15,4 +15,4 @@ The solution must be extensible as to add more vehicle types and features.
 1. **Abstract Factory Pattern**: To create vehcile types based on categories.\
 2. **Decorator Pattern**: To add features to vehicles dynamically.
 
-Design and impplement the solution.
+Design and implement the solution.
